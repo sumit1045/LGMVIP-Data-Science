@@ -8,7 +8,7 @@ Sumit Koli
 import cv2
 
 # Reading the original image
-image = cv2.imread('./dog.jpg')
+image = cv2.imread('./Nature.jpg')
 # Displaying Original Image
 cv2.imshow("Original Image", image)
 cv2.waitKey(0)
